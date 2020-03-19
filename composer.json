@@ -1,6 +1,5 @@
 {
     "name": "phenobytes/test-composer",
-    "description": "A short description of what your package does",
     "require": {
         "slim/slim": "^4.4",
         "slim/psr7": "^1.0",
