@@ -1,6 +1,7 @@
 {
     "name": "phenobytes/test-composer",
     "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "slim/slim": "^4.4",
         "slim/psr7": "^1.0",
