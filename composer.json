@@ -1,12 +1,13 @@
 {
-    "name": "phenobytes/test-composer",
-    "license": "MIT",
-    "minimum-stability": "stable",
-    "require": {
-        "slim/slim": "^4.4",
-        "slim/psr7": "^1.0",
-        "slim/twig-view": "^3.0",
-        "akrabat/ip-address-middleware": "^1.0",
-        "tuupola/cors-middleware": "^1.1"
-    }
+	"name": "phenobytes/test-composer",
+	"license": "MIT",
+	"minimum-stability": "stable",
+	"require": {
+		"php": "^7.2",
+		"slim/slim": "^4.4",
+		"slim/psr7": "^1.0",
+		"slim/twig-view": "^3.0",
+		"akrabat/ip-address-middleware": "^1.0",
+		"tuupola/cors-middleware": "^1.1"
+	}
 }
